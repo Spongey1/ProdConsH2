@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWNLKHSh7WQ6FODH4SREiHFYMLzL0tSNHo9ngqNC1/rRqZ1C6GDKSmYIwg19QMBztyZkXdmvpwd74IryR73quw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drit0046\\VSCode\\ProdConsH2\\ProdConsH2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drit0046\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
